@@ -1,7 +1,6 @@
 # rust-concurrent-programming
 - **lock-based concurrency**
-- **lock-free concurrency**  
-in Rust
+- **lock-free concurrency**
 ## References
 - The Art of Multiprocessor Programming
 - Behaviour-Oriented Concurrency
